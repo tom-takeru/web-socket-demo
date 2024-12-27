@@ -18,7 +18,6 @@ go version
 node -v
 ```
 
-
 ### 1. Clone the repository
 
 ```sh
@@ -57,3 +56,9 @@ Press `Ctrl+C` in the terminal where the backend is running.
 #### Frontend
 
 Press `Ctrl+C` in the terminal where the frontend is running.
+
+## Related Articles
+
+- [Real-Time Web Application demo with WebSocket - Overview](https://dev.to/tom-takeru/real-time-web-application-demo-with-websockets-3fhb)
+- [Real-Time Web Application demo with WebSocket - Frontend](https://dev.to/tom-takeru/real-time-web-application-demo-with-websocket-frontend-4kep)
+- [Real-Time Web Application demo with WebSocket - Backend](https://dev.to/tom-takeru/real-time-web-application-demo-with-websocket-backend-1a1n)
