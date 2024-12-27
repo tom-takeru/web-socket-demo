@@ -21,7 +21,7 @@ node -v
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/your-username/web-socket-demo.git
+git clone https://github.com/tom-takeru/web-socket-demo.git
 cd web-socket-demo
 ```
 
